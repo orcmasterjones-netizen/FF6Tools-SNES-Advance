@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FF6Tools · SNES Advance</title><link rel="stylesheet" href="style.css">
+<script defer src="vendor/gfx.js"></script><script defer src="vendor/romtools.js"></script>
+<script defer src="vendor/rom-observer.js"></script><script defer src="profile.js"></script><script defer src="author-profile.js"></script>
+<script defer src="engine.js"></script><script defer src="retail-data.js"></script><script defer src="retail.js"></script><script defer src="formation-preview.js"></script><script defer src="workspace-layout.js"></script><script defer src="asset-editor.js"></script><script defer src="field-tiles.js"></script><script defer src="dialogue-layout.js"></script><script defer src="dialogue.js"></script><script defer src="workshop-ui.js"></script><script defer src="author-layout.js"></script><script defer src="events.js"></script><script defer src="project.js"></script><script defer src="graphics-editor.js"></script><script defer src="palette-import.js"></script><script defer src="author-tools.js"></script><script defer src="map-workspace.js"></script><script defer src="map-native-event.js"></script><script defer src="map-workspace-ui.js"></script><script defer src="ui.js"></script><script defer src="tests/local-browser-check.js"></script></head>
+<body><header><div><div class="wordmark">FF6Tools <span>/</span> SNES Advance</div><small>Regular v1.6.5 · Editor 0.7</small></div>
+<div class="tools"><label class="button" for="rom-file">Open ROM</label><input id="rom-file" type="file" accept=".sfc,.smc,.bin">
+<button id="undo" disabled>Undo</button><button id="redo" disabled>Redo</button><button id="save" class="primary" disabled>Export ROM</button></div></header>
+<p id="status" role="status" aria-live="polite">Open a Final Fantasy III USA retail ROM (v1.0 or v1.1) or a SNES Advance Regular ROM.</p>
+<main><nav aria-label="Record types"><h2>Tables</h2><div id="tabs"></div></nav>
+<section class="browser"><h2>Records</h2><label for="search">Find by name, decimal ID or $hex</label><input id="search" type="search" disabled autocomplete="off">
+<select id="records" size="18" aria-label="Records" disabled></select></section>
+<section class="detail" id="detail"><h1>Open a ROM</h1><p>Retail imports convert to Regular and carry across supported content edits. Export ROM saves a separate copy.</p></section>
+</main><footer><span>Based on FF6Tools by everything8215 and contributors</span><a href="README.md">Guide and supported fields</a></footer>
+</body></html>

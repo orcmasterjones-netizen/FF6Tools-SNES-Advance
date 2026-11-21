@@ -1,0 +1,22 @@
+{
+  "suite": "FF6Tools SNES Advance 0.3 RC3 native browser check",
+  "outcome": "PASS",
+  "timeUTC": "2026-11-21T15:07:57.095Z",
+  "platform": "Win32",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+  "protocol": "file:",
+  "retailRevision": "1.0",
+  "editedSHA256": "df23ce75e8d70f4a7774aab8c0be658190d7736b454cf49900e13ab1273d1d0b",
+  "scriptedEditsSHA256": "f18ce0e68ea9a43f3bd3ae90a6a807f6090cf3b0c24e9088409c7852c1dcc4a0",
+  "checks": [
+    "catalogued clean output",
+    "modified retail import",
+    "copier header",
+    "atomic conflict",
+    "formation preview and high ID",
+    "undo and redo",
+    "native download",
+    "page reload and file reopen",
+    "whole-file equality"
+  ]
+}

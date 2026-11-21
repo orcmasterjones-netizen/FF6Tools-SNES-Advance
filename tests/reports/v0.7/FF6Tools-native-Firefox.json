@@ -1,0 +1,29 @@
+{
+  "suite": "FF6Tools SNES Advance 0.7 preview native browser check",
+  "outcome": "PASS",
+  "timeUTC": "2026-11-21T17:33:12.735Z",
+  "platform": "Win32",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0",
+  "protocol": "file:",
+  "retailRevision": "1.0",
+  "editedSHA256": "f9884423ba800a5114ec5e92222632847197c9a1566c7d0fec2eea7fc11827c3",
+  "scriptedEditsSHA256": "f18ce0e68ea9a43f3bd3ae90a6a807f6090cf3b0c24e9088409c7852c1dcc4a0",
+  "checks": [
+    "catalogued clean output",
+    "modified retail import",
+    "copier header",
+    "atomic conflict",
+    "formation preview and high ID",
+    "monster script edit, reopen and undo",
+    "map painting, reopen and undo",
+    "composite map paint, exact Narshe NPC dialogue, event rebinding, chest and trigger placement, export/reopen and undo",
+    "new room and entrance binding",
+    "field draft recovery",
+    "battle events and added frames",
+    "native PNG decode, source crop, destination placement, palette generation and combined undo",
+    "undo and redo",
+    "native download",
+    "page reload and file reopen",
+    "whole-file equality"
+  ]
+}
