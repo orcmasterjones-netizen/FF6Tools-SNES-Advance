@@ -7,6 +7,7 @@ This independent editor is based on [FF6Tools](https://github.com/everything8215
 An offline ROM editor for the SNES Advance backport of Final Fantasy VI. Paint maps, place NPCs and chests, edit their events and dialogue, or work with the expanded monster, item, spell and Esper tables.
 
 ![Narshe map in the editor, with the two residents facing each other and map objects outlined](docs/narshe-map.png)
+/<img width="496" height="336" alt="FF6Tools_v0 7_Dragons_Den_Map" src="https://github.com/user-attachments/assets/171f0729-353e-43c7-87fe-e13c0dee4280" />
 
 ## Start editing
 
