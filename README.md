@@ -1,5 +1,7 @@
 # FF6Tools for SNES Advance
 
+This independent editor is based on [FF6Tools](https://github.com/everything8215/ff6tools), created by **everything8215** with contributions from the FF6Tools community. It uses FF6Tools’ graphics and ROM-editing code and adapts its Final Fantasy VI data definitions for SNES Advance Regular.
+
 **Editor v0.7 for SNES Advance Regular v1.6.5**
 
 An offline ROM editor for the SNES Advance backport of Final Fantasy VI. Paint maps, place NPCs and chests, edit their events and dialogue, or work with the expanded monster, item, spell and Esper tables.
